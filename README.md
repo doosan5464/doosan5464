@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 My Awesome Project  
+간단한 프로젝트 소개를 여기에 작성하세요.
 
-<!--
-**doosan5464/doosan5464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 주요 기능  
+- 🔥 실시간 채팅 기능  
+- 💾 데이터 저장 및 백업  
+- 🎨 다크 모드 지원  
 
-Here are some ideas to get you started:
+## 📷 스크린샷  
+![App Screenshot](https://via.placeholder.com/600x300)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 기술 스택  
+- **Front-end**: React, Tailwind CSS  
+- **Back-end**: Node.js, Express, MongoDB  
+- **DevOps**: Docker, AWS  
+
+## 📦 설치 방법  
+```sh
+git clone https://github.com/myusername/myproject.git  
+cd myproject  
+npm install  
+npm start  
